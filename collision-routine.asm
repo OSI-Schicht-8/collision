@@ -1,12 +1,6 @@
 ;
 _custom			=				$dff000		; base address of custom chips
 
-bob_Y			=				6
-bob_X			=				8
-bob_Height		=				10
-bob_Width		=				12
-bob_CollMask		=				28
-
 blt_source		=				$00		; $00 - source address
 blt_dest		=				$04		; $04 - destination adress
 blt_srcmod		=				$08		; $08 - source modulo
